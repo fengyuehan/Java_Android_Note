@@ -6,3 +6,13 @@ android 和 Java 笔记。
 
 因为我是安卓开发者，所以对Java只是关于Java SE的笔记，下面是其大纲。
 
+![image](https://github.com/fengyuehan/Java_Android_Note/blob/master/img/1.png)
+
+![image](https://github.com/fengyuehan/Java_Android_Note/blob/master/img/2.png)
+
+![image](https://github.com/fengyuehan/Java_Android_Note/blob/master/img/3.png)
+
+
+
+这些只是其中的一部分，如果需要看详细的请下载java.xmind和java.png.
+如果觉得这些对您有一点用，欢迎star一个。
